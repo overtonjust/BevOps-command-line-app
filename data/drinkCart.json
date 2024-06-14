@@ -1,0 +1,22 @@
+[
+  {
+    "id": "Zat71",
+    "name": "Gin & Tonic",
+    "ingredients": [
+      "Gin",
+      "Tonic water"
+    ],
+    "priceInCents": 1200,
+    "inStock": true
+  },
+  {
+    "id": "Zat71",
+    "name": "Gin & Tonic",
+    "ingredients": [
+      "Gin",
+      "Tonic water"
+    ],
+    "priceInCents": 1200,
+    "inStock": true
+  }
+]

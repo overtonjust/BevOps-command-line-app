@@ -1,0 +1,68 @@
+[
+  {
+    "id": "Zat71",
+    "name": "Gin & Tonic",
+    "ingredients": [
+      "Gin",
+      "Tonic water"
+    ],
+    "priceInCents": 1200,
+    "inStock": true
+  },
+  {
+    "id": "-jt-_",
+    "name": "Angel's Delight",
+    "ingredients": [
+      "Gin",
+      "Grenadine",
+      "Triple Sec",
+      "Heavy Cream"
+    ],
+    "priceInCents": 1374,
+    "inStock": true
+  },
+  {
+    "id": "_3mzE",
+    "name": "Baron Samedi",
+    "ingredients": [
+      "Dark Rum",
+      "Lime Juice",
+      "Cinnamon Syrup",
+      "Falernum"
+    ],
+    "priceInCents": 1700,
+    "inStock": true
+  },
+  {
+    "id": "jtmwH",
+    "name": "Grasshopper",
+    "ingredients": [
+      "Creme de Cacao",
+      "Creme de menthe",
+      "Heavy Cream"
+    ],
+    "priceInCents": 1459,
+    "inStock": true
+  },
+  {
+    "id": "6IMK7",
+    "name": "Corpse Reviver No.2",
+    "ingredients": [
+      "Gin",
+      "Lemon Juice",
+      "Lillet Blanc",
+      "Triple Sec"
+    ],
+    "priceInCents": 1749,
+    "inStock": true
+  },
+  {
+    "id": "z0q8N",
+    "name": "jimmy drink",
+    "ingredients": [
+      "Bourbon"
+    ],
+    "priceInCents": 123,
+    "inStock": false
+  }
+]
